@@ -261,7 +261,7 @@ window['' + RmwhEGnPFuis + ''] = (function() {
                     e((t.clientWidth == 0), i);
                     e((t.display == 'hidden'), i);
                     e((t.visibility == 'none'), i);
-                    e((t.opacity == 1), i)
+                    e((t.opacity == 0), i)
                 } else {
                     e(!0, i)
                 }
